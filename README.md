@@ -1,4 +1,4 @@
-# itpcamp-dataviz
+# Data Visualization with Python & Adobe Illustrator
 
 Data visualization workshop for ITP Camp 2019. 
 
