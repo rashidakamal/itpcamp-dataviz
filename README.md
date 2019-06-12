@@ -2,7 +2,9 @@
 
 Data visualization workshop for ITP Camp 2019. [Here are the slides!](https://docs.google.com/presentation/d/1grumKX2RS2O1nE5kp7XnphI_GmXpMPcTo7q3Bh_Yj3M/edit?usp=sharing)
 
-**Sometimes Github has trouble displaying large notebooks! If you run into issues, view the code notebook [here](https://nbviewer.jupyter.org/github/rashidakamal/itpcamp-dataviz/blob/master/311_complaints.ipynb).**
+## Viewing the notebook on Github.
+
+Sometimes Github has trouble displaying large notebooks! If you run into issues, view the code notebook **[here](https://nbviewer.jupyter.org/github/rashidakamal/itpcamp-dataviz/blob/master/311_complaints.ipynb).**
 
 ## Installation instructions sent to the participants: 
 
