@@ -4,7 +4,7 @@ Data visualization workshop for ITP Camp 2019. [Here are the slides!](https://do
 
 **Sometimes Github has trouble displaying large notebooks! If you run into issues, view the code notebook [here](https://nbviewer.jupyter.org/github/rashidakamal/itpcamp-dataviz/blob/master/311_complaints.ipynb).**
 
-These were the installation instructions I sent to the participants: 
+## Installation instructions sent to the participants: 
 
 1. Install Python 3, if you have not previously done so. (Anything above 3.6 is fine).
 	For MAC: [https://docs.python-guide.org/starting/install3/osx/](https://docs.python-guide.org/starting/install3/osx/) 
